@@ -1,14 +1,25 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T05:19:44.002Z",
+  "updatedAt": "2026-10-02T05:30:13.102Z",
   "items": [
+    {
+      "id": "2026-10-02-thong-bao-tam-ngung-cap-nhat-va-bao-tri--1ecn",
+      "date": "2026-10-02T05:30:13.102Z",
+      "type": "maintenance",
+      "title": "📢 [THÔNG BÁO] TẠM NGỪNG CẬP NHẬT VÀ BẢO TRÌ HỆ THỐNG WEBSITE DENKI",
+      "body": "Kính gửi Quý người dùng,\\n Hệ thống Denki xin thông báo sẽ tạm ngưng tất cả các hoạt động cập nhật và chỉnh sửa bắt đầu từ hôm nay cho đến hết Thứ Năm tuần sau (ngày 08/10/2026).\\n Thời gian hoàn tất: Dự kiến hoàn tất và hoạt động lại bình thường vào Thứ Sáu (ngày 09/10/2026).\\n Lưu ý: Trong thời gian này, bạn vẫn có thể truy cập website như bình thường. Tuy nhiên, các yêu cầu chỉnh sửa, cập nhật dữ liệu hoặc tính năng mới sẽ được hệ thống tạm hoãn và tiếp tục xử lý sau thời gian trên.\\n Cảm ơn sự đồng hành và thông cảm của Quý người dùng!\\n Trân trọng,\\n Đội ngũ Admin - Denki",
+      "place": "all",
+      "pin": true,
+      "until": "2026-10-03T05:30:13.101Z"
+    },
     {
       "id": "2026-10-02-thong-bao-tam-ngung-cap-nhat-va-bao-tri--0ai1",
       "date": "2026-10-02T05:19:44.002Z",
       "type": "maintenance",
       "title": "📢 [THÔNG BÁO] TẠM NGỪNG CẬP NHẬT VÀ BẢO TRÌ HỆ THỐNG WEBSITE DENKI",
-      "body": "Kính gửi Quý người dùng,",
+      "body": "Kính gửi Quý người dùng,\n Hệ thống Denki xin thông báo sẽ tạm ngưng tất cả các hoạt động cập nhật và chỉnh sửa bắt đầu từ hôm nay cho đến hết Thứ Năm tuần sau (ngày 08/10/2026).\n Thời gian hoàn tất: Dự kiến hoàn tất và hoạt động lại bình thường vào Thứ Sáu (ngày 09/10/2026).\n Lưu ý: Trong thời gian này, bạn vẫn có thể truy cập website như bình thường. Tuy nhiên, các yêu cầu chỉnh sửa, cập nhật dữ liệu hoặc tính năng mới sẽ được hệ thống tạm hoãn và tiếp tục xử lý sau thời gian trên.\n Cảm ơn sự đồng hành và thông cảm của Quý người dùng!\n Trân trọng,\n Đội ngũ Admin - Denki",
       "place": "all",
+      "popup": false,
       "pin": true,
       "until": "2026-10-05T05:19:44.001Z"
     },
