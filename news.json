@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-02T04:01:39.463Z",
+  "items": [
+    {
+      "id": "2026-10-02-ra-mat-xep-hang-online-va-ghep-tran-ngau-clrx",
+      "date": "2026-10-02T04:01:39.463Z",
+      "type": "feature",
+      "title": "Ra mắt Xếp hạng online và ghép trận ngẫu nhiên",
+      "body": "Đấu trường đã có trận xếp hạng 1v1 với người thật!\n- Chọn Đấu người → Tìm trận xếp hạng: máy chủ tự ghép bạn với người cùng map, điểm gần bạn nhất\n- Chờ lâu chưa có người thì khoảng chênh điểm được nới dần để sớm có trận\n- Thắng được cộng điểm, thua bị trừ, rời trận giữa chừng tính là thua\n- 5 trận đầu mỗi mùa là trận phân hạng, xong sẽ có tên trên bảng xếp hạng\n- Bậc võ sĩ Nhật: 足軽 → 侍 → 武将 → 大名 → 将軍; top 10 từ 1.300 điểm là 天下人\n- Mỗi tháng một mùa giải mới, xem bảng ở tab Xếp hạng trong Đấu trường\nPhòng mời bằng mã vẫn dùng được để giao hữu với bạn bè (không tính điểm).",
+      "place": "all",
+      "link": "#/arena",
+      "popup": true
+    }
+  ]
+}
