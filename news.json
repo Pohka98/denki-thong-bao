@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T04:48:02.739Z",
+  "updatedAt": "2026-10-02T05:19:44.002Z",
   "items": [
+    {
+      "id": "2026-10-02-thong-bao-tam-ngung-cap-nhat-va-bao-tri--0ai1",
+      "date": "2026-10-02T05:19:44.002Z",
+      "type": "maintenance",
+      "title": "📢 [THÔNG BÁO] TẠM NGỪNG CẬP NHẬT VÀ BẢO TRÌ HỆ THỐNG WEBSITE DENKI",
+      "body": "Kính gửi Quý người dùng,",
+      "place": "all",
+      "pin": true,
+      "until": "2026-10-05T05:19:44.001Z"
+    },
     {
       "id": "2026-10-02-tuy-chinh-ho-so-ca-nhan-ayzn",
       "date": "2026-10-02T04:48:02.739Z",
@@ -10,7 +20,8 @@
       "body": "Giờ bạn có thể trang trí hồ sơ của mình!\n- Đổi tên hiển thị (miễn phí 1 lần duy nhất)\n- Chọn ảnh đại diện từ 5 nhân vật, hoặc dùng chữ cái đầu\n- Viết lời giới thiệu ngắn về bản thân\n- Đặt mục tiêu JLPT (N5 đến N1)\nBấm vào tên ở góc trên bên phải để mở hồ sơ. Tên, ảnh và lời giới thiệu sẽ hiện trên bảng xếp hạng cho người khác thấy.",
       "place": "all",
       "link": "#/profile",
-      "popup": true
+      "popup": true,
+      "pin": false
     },
     {
       "id": "2026-10-02-mua-cach-tinh-sat-thuong-va-suc-manh-cua-15o9",
