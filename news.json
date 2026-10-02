@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T04:01:39.463Z",
+  "updatedAt": "2026-10-02T04:03:20.881Z",
   "items": [
+    {
+      "id": "2026-10-02-mua-cach-tinh-sat-thuong-va-suc-manh-cua-15o9",
+      "date": "2026-10-02T04:03:20.881Z",
+      "type": "feature",
+      "title": "Mùa 神無月: cách tính sát thương và sức mạnh của máy",
+      "body": "Mỗi câu, ai trả lời đúng đều ra đòn; trả lời sai hoặc hết giờ thì không đánh. Máu mỗi bên: 100.\n- Sát thương gốc: 7 điểm\n- Người đúng nhanh nhất đánh 100%, người đúng sau đánh 80%\n- Trả lời càng nhanh càng đau: thêm tối đa 50% (trả lời ngay lập tức), sát giờ thì không thêm\n- Map Tự do: câu N5 ×1, N4 ×1,1, N3 ×1,2, N2 ×1,35, N1 ×1,5\n- Samurai +25% từ câu đúng thứ 2 liên tiếp; Oni +25% nhưng ít hơn 2 giây; buff Sức mạnh ×2; Khiên giảm 30%\n- Chiêu nộ (đúng 3 câu liên tiếp): trong 1v1 đánh ×1,5\n- Đột tử: sau 3 phút (1v1) hoặc 4 phút (hỗn chiến) mọi đòn ×2\nThường mỗi đòn mất khoảng 7–12 máu. Nếu bạn và máy cùng đúng thì cả hai cùng mất máu, người nhanh hơn đánh đau hơn.\nSức mạnh của máy mùa này:\n- Dễ: đúng khoảng 60%, trả lời sau 3–7 giây\n- Thường: đúng khoảng 75%, trả lời sau 2–5,5 giây\n- Khó: đúng khoảng 90%, trả lời sau 1,2–3,8 giây\n- Câu cấp cao hơn (mỗi bậc trên N5 −4%) và câu nghe, câu đọc kanji (−5%) máy đúng ít hơn và chậm hơn\nMẹo: muốn thắng máy Khó, hãy trả lời đúng trong khoảng 2–3 giây.",
+      "place": "arena",
+      "link": "#/arena",
+      "pin": true,
+      "until": "2026-10-31T04:03:20.880Z"
+    },
     {
       "id": "2026-10-02-ra-mat-xep-hang-online-va-ghep-tran-ngau-clrx",
       "date": "2026-10-02T04:01:39.463Z",
@@ -10,7 +21,8 @@
       "body": "Đấu trường đã có trận xếp hạng 1v1 với người thật!\n- Chọn Đấu người → Tìm trận xếp hạng: máy chủ tự ghép bạn với người cùng map, điểm gần bạn nhất\n- Chờ lâu chưa có người thì khoảng chênh điểm được nới dần để sớm có trận\n- Thắng được cộng điểm, thua bị trừ, rời trận giữa chừng tính là thua\n- 5 trận đầu mỗi mùa là trận phân hạng, xong sẽ có tên trên bảng xếp hạng\n- Bậc võ sĩ Nhật: 足軽 → 侍 → 武将 → 大名 → 将軍; top 10 từ 1.300 điểm là 天下人\n- Mỗi tháng một mùa giải mới, xem bảng ở tab Xếp hạng trong Đấu trường\nPhòng mời bằng mã vẫn dùng được để giao hữu với bạn bè (không tính điểm).",
       "place": "all",
       "link": "#/arena",
-      "popup": true
+      "popup": true,
+      "pin": false
     }
   ]
 }
