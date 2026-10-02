@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T04:03:20.881Z",
+  "updatedAt": "2026-10-02T04:48:02.739Z",
   "items": [
+    {
+      "id": "2026-10-02-tuy-chinh-ho-so-ca-nhan-ayzn",
+      "date": "2026-10-02T04:48:02.739Z",
+      "type": "feature",
+      "title": "Tùy chỉnh hồ sơ cá nhân",
+      "body": "Giờ bạn có thể trang trí hồ sơ của mình!\n- Đổi tên hiển thị (miễn phí 1 lần duy nhất)\n- Chọn ảnh đại diện từ 5 nhân vật, hoặc dùng chữ cái đầu\n- Viết lời giới thiệu ngắn về bản thân\n- Đặt mục tiêu JLPT (N5 đến N1)\nBấm vào tên ở góc trên bên phải để mở hồ sơ. Tên, ảnh và lời giới thiệu sẽ hiện trên bảng xếp hạng cho người khác thấy.",
+      "place": "all",
+      "link": "#/profile",
+      "popup": true
+    },
     {
       "id": "2026-10-02-mua-cach-tinh-sat-thuong-va-suc-manh-cua-15o9",
       "date": "2026-10-02T04:03:20.881Z",
@@ -10,6 +20,7 @@
       "body": "Mỗi câu, ai trả lời đúng đều ra đòn; trả lời sai hoặc hết giờ thì không đánh. Máu mỗi bên: 100.\n- Sát thương gốc: 7 điểm\n- Người đúng nhanh nhất đánh 100%, người đúng sau đánh 80%\n- Trả lời càng nhanh càng đau: thêm tối đa 50% (trả lời ngay lập tức), sát giờ thì không thêm\n- Map Tự do: câu N5 ×1, N4 ×1,1, N3 ×1,2, N2 ×1,35, N1 ×1,5\n- Samurai +25% từ câu đúng thứ 2 liên tiếp; Oni +25% nhưng ít hơn 2 giây; buff Sức mạnh ×2; Khiên giảm 30%\n- Chiêu nộ (đúng 3 câu liên tiếp): trong 1v1 đánh ×1,5\n- Đột tử: sau 3 phút (1v1) hoặc 4 phút (hỗn chiến) mọi đòn ×2\nThường mỗi đòn mất khoảng 7–12 máu. Nếu bạn và máy cùng đúng thì cả hai cùng mất máu, người nhanh hơn đánh đau hơn.\nSức mạnh của máy mùa này:\n- Dễ: đúng khoảng 60%, trả lời sau 3–7 giây\n- Thường: đúng khoảng 75%, trả lời sau 2–5,5 giây\n- Khó: đúng khoảng 90%, trả lời sau 1,2–3,8 giây\n- Câu cấp cao hơn (mỗi bậc trên N5 −4%) và câu nghe, câu đọc kanji (−5%) máy đúng ít hơn và chậm hơn\nMẹo: muốn thắng máy Khó, hãy trả lời đúng trong khoảng 2–3 giây.",
       "place": "arena",
       "link": "#/arena",
+      "popup": false,
       "pin": true,
       "until": "2026-10-31T04:03:20.880Z"
     },
