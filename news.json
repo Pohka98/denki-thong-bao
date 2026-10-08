@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T03:28:42.129Z",
+  "updatedAt": "2026-10-08T05:01:38.605Z",
   "items": [
+    {
+      "id": "2026-10-08-chon-giong-doc-tieng-nhat-nanami-hoac-ke-k6ce",
+      "date": "2026-10-08T05:01:38.605Z",
+      "type": "feature",
+      "title": "Chọn giọng đọc tiếng Nhật: Nanami hoặc Keita",
+      "body": "Giờ bạn có thể chọn giọng đọc tiếng Nhật, không cần cài thêm gì trên máy!\n- Nanami (giọng nữ, như trước đây) hoặc Keita (giọng nam), mỗi giọng có nút nghe thử\n- Dùng cho Audio, Flashcard và danh sách từ trong bài\n- Đổi ở mục 4 \"Giọng đọc\" của Audio, hoặc trong trang \"Tôi\"; lựa chọn được lưu vào tài khoản\n- Mẹo: chọn một giọng nam và một giọng nữ cho tiếng Nhật và tiếng Việt để dễ phân biệt hai thứ tiếng\nĐấu trường vẫn dùng giọng Nanami để hai người chơi nghe như nhau.",
+      "place": "all",
+      "link": "#/profile",
+      "popup": true
+    },
     {
       "id": "2026-10-08-giao-dien-moi-tren-dien-thoai-2fzo",
       "date": "2026-10-08T03:28:42.129Z",
@@ -9,7 +19,8 @@
       "title": "Giao diện mới trên điện thoại",
       "body": "Denki trên điện thoại giờ dùng giống một ứng dụng hơn!\n- Thanh điều hướng ở cuối màn hình: Trang chủ, Từ vựng, Luyện nghe, Đấu trường, Tôi\n- Trong mỗi cấp độ: Bài học, Flashcard, Audio, Ôn tập; Luyện viết, Bộ thủ và Đổi cấp độ nằm trong mục \"Thêm\"\n- Khi đang học (Flashcard, Ôn tập, Luyện viết, Audio, Bộ thủ) màn hình gọn hơn, bấm ✕ để thoát\n- Giao diện sáng/tối và Đăng xuất chuyển vào mục \"Tôi\"\n- Thông báo đã đọc trên máy này sẽ không hiện lại trên máy khác cùng tài khoản\nTrên máy tính, giao diện vẫn giữ như cũ.",
       "place": "all",
-      "popup": true
+      "popup": true,
+      "pin": false
     },
     {
       "id": "2026-10-08-audio-nghe-kem-nghia-tieng-viet-tu-chon--au8g",
