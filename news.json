@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T05:01:38.605Z",
+  "updatedAt": "2026-10-08T08:44:59.106Z",
   "items": [
+    {
+      "id": "2026-10-08-giong-doc-tieng-nhat-to-hon-them-cau-vi--yu7f",
+      "date": "2026-10-08T08:44:59.106Z",
+      "type": "feature",
+      "title": "Giọng đọc tiếng Nhật to hơn, thêm câu ví dụ cho N5",
+      "body": "Hai cập nhật cho phần nghe và từ vựng:\n- Giọng đọc tiếng Nhật (Nanami và Keita) to và rõ hơn trong Audio, Flashcard và danh sách từ; Đấu trường giữ nguyên\n- Mỗi từ vựng N5 có thêm 1 câu ví dụ kèm nghĩa tiếng Việt, dùng ngữ pháp đúng với bài đang học trong Minna no Nihongo\n- Câu ví dụ có nút nghe ở danh sách từ của bài\n- Ở mục Audio, bật \"Đọc cả câu ví dụ\" để nghe câu ví dụ sau mỗi từ; câu đang đọc hiện ngay trên màn hình\nCâu ví dụ N5 là bản đầu tiên; nếu thấy câu nào chưa tự nhiên, bạn cứ báo để Denki sửa nhé.",
+      "place": "all",
+      "link": "#/vocabulary/n5/1",
+      "popup": true
+    },
     {
       "id": "2026-10-08-chon-giong-doc-tieng-nhat-nanami-hoac-ke-k6ce",
       "date": "2026-10-08T05:01:38.605Z",
@@ -10,7 +20,8 @@
       "body": "Giờ bạn có thể chọn giọng đọc tiếng Nhật, không cần cài thêm gì trên máy!\n- Nanami (giọng nữ, như trước đây) hoặc Keita (giọng nam), mỗi giọng có nút nghe thử\n- Dùng cho Audio, Flashcard và danh sách từ trong bài\n- Đổi ở mục 4 \"Giọng đọc\" của Audio, hoặc trong trang \"Tôi\"; lựa chọn được lưu vào tài khoản\n- Mẹo: chọn một giọng nam và một giọng nữ cho tiếng Nhật và tiếng Việt để dễ phân biệt hai thứ tiếng\nĐấu trường vẫn dùng giọng Nanami để hai người chơi nghe như nhau.",
       "place": "all",
       "link": "#/profile",
-      "popup": true
+      "popup": true,
+      "pin": false
     },
     {
       "id": "2026-10-08-giao-dien-moi-tren-dien-thoai-2fzo",
