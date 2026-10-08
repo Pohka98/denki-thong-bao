@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T02:41:11.971Z",
+  "updatedAt": "2026-10-08T03:28:42.129Z",
   "items": [
+    {
+      "id": "2026-10-08-giao-dien-moi-tren-dien-thoai-2fzo",
+      "date": "2026-10-08T03:28:42.129Z",
+      "type": "feature",
+      "title": "Giao diện mới trên điện thoại",
+      "body": "Denki trên điện thoại giờ dùng giống một ứng dụng hơn!\n- Thanh điều hướng ở cuối màn hình: Trang chủ, Từ vựng, Luyện nghe, Đấu trường, Tôi\n- Trong mỗi cấp độ: Bài học, Flashcard, Audio, Ôn tập; Luyện viết, Bộ thủ và Đổi cấp độ nằm trong mục \"Thêm\"\n- Khi đang học (Flashcard, Ôn tập, Luyện viết, Audio, Bộ thủ) màn hình gọn hơn, bấm ✕ để thoát\n- Giao diện sáng/tối và Đăng xuất chuyển vào mục \"Tôi\"\n- Thông báo đã đọc trên máy này sẽ không hiện lại trên máy khác cùng tài khoản\nTrên máy tính, giao diện vẫn giữ như cũ.",
+      "place": "all",
+      "popup": true
+    },
     {
       "id": "2026-10-08-audio-nghe-kem-nghia-tieng-viet-tu-chon--au8g",
       "date": "2026-10-08T02:41:11.971Z",
@@ -10,7 +19,8 @@
       "body": "Mục Audio giờ đọc cả nghĩa tiếng Việt, và không cần cài thêm giọng đọc trên máy nữa!\n- Tự chỉnh số lần đọc mỗi từ: tiếng Nhật 1–5 lần, tiếng Việt 0–3 lần\n- Chọn đọc Nhật → Việt (luyện nghe hiểu) hoặc Việt → Nhật (luyện nhớ từ tiếng Nhật)\n- Khoảng lặng 2–4 giây để tự nhớ nghĩa trước khi nghe đáp án\n- Đọc âm Hán Việt (最後 → tối hậu) và bản dịch câu ví dụ (N3)\n- 4 mẫu có sẵn: Nghe thụ động, Tự kiểm tra, Nhại theo, Ôn nhanh\n- Chọn giọng đọc tiếng Việt: Nam Minh (nam) hoặc Hoài My (nữ), có nút nghe thử; đổi ở mục Audio hoặc trong Hồ sơ\n- Biết trước mỗi vòng nghe mất bao lâu; bật lặp lại để nghe liên tục\nTiếng Việt được đọc nhỏ hơn tiếng Nhật một chút để bạn tập trung vào phát âm tiếng Nhật.",
       "place": "all",
       "link": "#/vocabulary/n5/audio",
-      "popup": true
+      "popup": true,
+      "pin": false
     },
     {
       "id": "2026-10-02-thong-bao-tam-ngung-cap-nhat-va-bao-tri--0ai1",
