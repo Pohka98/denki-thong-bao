@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T07:00:00.000Z",
+  "updatedAt": "2026-10-08T02:41:11.971Z",
   "items": [
+    {
+      "id": "2026-10-08-audio-nghe-kem-nghia-tieng-viet-tu-chon--au8g",
+      "date": "2026-10-08T02:41:11.971Z",
+      "type": "feature",
+      "title": "Audio: nghe kèm nghĩa tiếng Việt, tự chọn giọng đọc",
+      "body": "Mục Audio giờ đọc cả nghĩa tiếng Việt, và không cần cài thêm giọng đọc trên máy nữa!\n- Tự chỉnh số lần đọc mỗi từ: tiếng Nhật 1–5 lần, tiếng Việt 0–3 lần\n- Chọn đọc Nhật → Việt (luyện nghe hiểu) hoặc Việt → Nhật (luyện nhớ từ tiếng Nhật)\n- Khoảng lặng 2–4 giây để tự nhớ nghĩa trước khi nghe đáp án\n- Đọc âm Hán Việt (最後 → tối hậu) và bản dịch câu ví dụ (N3)\n- 4 mẫu có sẵn: Nghe thụ động, Tự kiểm tra, Nhại theo, Ôn nhanh\n- Chọn giọng đọc tiếng Việt: Nam Minh (nam) hoặc Hoài My (nữ), có nút nghe thử; đổi ở mục Audio hoặc trong Hồ sơ\n- Biết trước mỗi vòng nghe mất bao lâu; bật lặp lại để nghe liên tục\nTiếng Việt được đọc nhỏ hơn tiếng Nhật một chút để bạn tập trung vào phát âm tiếng Nhật.",
+      "place": "all",
+      "link": "#/vocabulary/n5/audio",
+      "popup": true
+    },
     {
       "id": "2026-10-02-thong-bao-tam-ngung-cap-nhat-va-bao-tri--0ai1",
       "date": "2026-10-02T05:19:44.002Z",
@@ -9,6 +19,7 @@
       "title": "📢 [THÔNG BÁO] TẠM NGỪNG CẬP NHẬT VÀ BẢO TRÌ HỆ THỐNG WEBSITE DENKI",
       "body": "Kính gửi Quý người dùng,\nHệ thống Denki xin thông báo sẽ tạm ngưng tất cả các hoạt động cập nhật và chỉnh sửa bắt đầu từ hôm nay cho đến hết Thứ Năm tuần sau (ngày 08/10/2026).\nThời gian hoàn tất: Dự kiến hoàn tất và hoạt động lại bình thường vào Thứ Sáu (ngày 09/10/2026).\nLưu ý: Trong thời gian này, bạn vẫn có thể truy cập website như bình thường. Tuy nhiên, các yêu cầu chỉnh sửa, cập nhật dữ liệu hoặc tính năng mới sẽ được hệ thống tạm hoãn và tiếp tục xử lý sau thời gian trên.\nCảm ơn sự đồng hành và thông cảm của Quý người dùng!\nTrân trọng,\nĐội ngũ Admin - Denki",
       "place": "all",
+      "popup": false,
       "pin": true,
       "until": "2026-10-09T16:59:59.000Z"
     },
