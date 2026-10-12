@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T08:44:59.106Z",
+  "updatedAt": "2026-10-12T03:45:45.695Z",
   "items": [
+    {
+      "id": "2026-10-12-on-tap-co-them-nut-goi-y-qqrv",
+      "date": "2026-10-12T03:45:45.695Z",
+      "type": "feature",
+      "title": "Ôn tập có thêm nút 💡 Gợi ý",
+      "body": "Khi ôn tập mà chưa nhớ ra, bạn có thể bấm 💡 Gợi ý để xem một phần đáp án:\n- Nhật → Việt: âm Hán Việt và chữ cái đầu của nghĩa\n- Việt → Nhật: cách đọc và âm Hán Việt\n- Chỉ Kanji: chữ đầu và số chữ của cách đọc\nCâu đã xem gợi ý sẽ được tính là chưa thuộc, để bạn ôn lại ở cuối lượt.",
+      "place": "all",
+      "link": "#/vocabulary/n5/review",
+      "popup": true
+    },
     {
       "id": "2026-10-08-giong-doc-tieng-nhat-to-hon-them-cau-vi--yu7f",
       "date": "2026-10-08T08:44:59.106Z",
@@ -10,7 +20,8 @@
       "body": "Hai cập nhật cho phần nghe và từ vựng:\n- Giọng đọc tiếng Nhật (Nanami và Keita) to và rõ hơn trong Audio, Flashcard và danh sách từ; Đấu trường giữ nguyên\n- Mỗi từ vựng N5 có thêm 1 câu ví dụ kèm nghĩa tiếng Việt, dùng ngữ pháp đúng với bài đang học trong Minna no Nihongo\n- Câu ví dụ có nút nghe ở danh sách từ của bài\n- Ở mục Audio, bật \"Đọc cả câu ví dụ\" để nghe câu ví dụ sau mỗi từ; câu đang đọc hiện ngay trên màn hình\nCâu ví dụ N5 là bản đầu tiên; nếu thấy câu nào chưa tự nhiên, bạn cứ báo để Denki sửa nhé.",
       "place": "all",
       "link": "#/vocabulary/n5/1",
-      "popup": true
+      "popup": true,
+      "pin": false
     },
     {
       "id": "2026-10-08-chon-giong-doc-tieng-nhat-nanami-hoac-ke-k6ce",
