@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T03:45:45.695Z",
+  "updatedAt": "2026-11-19T14:32:05.249Z",
   "items": [
+    {
+      "id": "2026-11-19-ra-mat-ghep-tu-chay-dua-voi-thoi-gian-4ptf",
+      "date": "2026-11-19T14:32:05.249Z",
+      "type": "feature",
+      "title": "Ra mắt Ghép từ: chạy đua với thời gian",
+      "body": "Ghép nghĩa tiếng Việt với từ tiếng Nhật để luyện phản xạ.\n- 5 chặng, mỗi chặng 10 từ, mỗi từ xuất hiện 5 lần\n- Thời gian giảm dần từ 1:55 xuống 1:00\n- Chọn hiện hoặc ẩn hiragana trước khi chơi\n- Ghép sai: hai ô bị khóa 1,5 giây\n- Từ bạn hay ghép sai sẽ được ưu tiên xuất hiện lại\nVào một cấp độ → Ghép từ (trên điện thoại nằm trong mục \"Thêm\").",
+      "place": "all",
+      "link": "#/vocabulary",
+      "popup": true
+    },
     {
       "id": "2026-10-12-on-tap-co-them-nut-goi-y-qqrv",
       "date": "2026-10-12T03:45:45.695Z",
@@ -10,7 +20,8 @@
       "body": "Khi ôn tập mà chưa nhớ ra, bạn có thể bấm 💡 Gợi ý để xem một phần đáp án:\n- Nhật → Việt: âm Hán Việt và chữ cái đầu của nghĩa\n- Việt → Nhật: cách đọc và âm Hán Việt\n- Chỉ Kanji: chữ đầu và số chữ của cách đọc\nCâu đã xem gợi ý sẽ được tính là chưa thuộc, để bạn ôn lại ở cuối lượt.",
       "place": "all",
       "link": "#/vocabulary/n5/review",
-      "popup": true
+      "popup": true,
+      "pin": false
     },
     {
       "id": "2026-10-08-giong-doc-tieng-nhat-to-hon-them-cau-vi--yu7f",
